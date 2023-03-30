@@ -2,6 +2,6 @@
 
 module.exports = {
 
-    "title": "Web Starter Template"
+    "title": "Simple Search"
 
 };
