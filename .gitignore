@@ -1,0 +1,8 @@
+.eslintrc.json
+node_modules/
+.idea
+package-lock
+audit
+.local_server
+logs
+.DS_Store
